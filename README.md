@@ -1,2 +1,2 @@
-# kubernetes_demo
-Kubernetes notes and configuration files for demonstration purposes.
+# trove
+A collection of notes and other things that I don't want to forget.
